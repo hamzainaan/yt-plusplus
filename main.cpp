@@ -1,4 +1,18 @@
-//Simple YouTube video downloader in C++ by Hamza Inan using pytube library.
+/*
+  yt++, a basic YouTube Content Save Tool.
+  Copyright (C) 2022 Hamza Inan
+  yt++ is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+  yt++ is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
 //You need to have Python and pytube
 //For installation: python3 pip -m install pytube
 //IMPORTANT: Please have the compiled program where you want to download the video. The program will download to whichever folder it is in.
